@@ -50,4 +50,3 @@ Mon but est d’évoluer dans un rôle en cybersécurité, avec une préférence
 
 ---
 
-✨ Suivez mes projets & exercices publiés ici – ils retracent ma progression dans ma reconversion vers la **cybersécurité**.
