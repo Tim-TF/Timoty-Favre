@@ -1,4 +1,3 @@
-# Timoty-Favre
 
 # 👋 Bonjour, je suis Timoty Favre  
 
