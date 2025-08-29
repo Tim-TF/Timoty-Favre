@@ -37,6 +37,13 @@ Mon but est d’évoluer dans un rôle en cybersécurité, avec une préférence
 
 ---
 
+## 💡 Autres compétences
+- Maîtrise avancée de la suite **Microsoft Office** (Excel, Word, PowerPoint, Outlook)  
+- Utilisation quotidienne de logiciels comptables et ERP (ex. Winbiz, Cheel etc.)  
+- Analyse et gestion de données financières
+ 
+---
+
 ## 📊 Statistiques GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimotyFavre&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimotyFavre&layout=compact&theme=radical)
