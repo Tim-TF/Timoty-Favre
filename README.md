@@ -33,7 +33,7 @@ Mon but est d’évoluer dans un rôle en cybersécurité, avec une préférence
 
 - **Cybersécurité** : principes fondamentaux, sécurité réseau  
 - **Pentesting** : reconnaissance, exploitation, résolution de CTFs  
-- **Outils** : SIEM (Splunk, Chronicle), environnements Linux  
+- **Outils** : SIEM (basique), environnements Linux, nmap  
 
 ---
 
