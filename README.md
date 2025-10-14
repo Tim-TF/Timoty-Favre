@@ -41,7 +41,12 @@ Mon but est d’évoluer dans un rôle en cybersécurité, avec une préférence
 - Maîtrise avancée de la suite **Microsoft Office** (Excel, Word, PowerPoint, Outlook)  
 - Utilisation quotidienne de logiciels comptables et ERP (ex. Winbiz, Cheel etc.)  
 - Analyse et gestion de données financières
- 
+
+ ## 🔄 En cours de perfectionnement
+- Je continue à développer mes compétences en cybersécurité via des labs et CTF sur **TryHackMe**  
+- Je me forme régulièrement sur de nouveaux outils, techniques et bonnes pratiques  
+- Mon objectif : devenir pleinement opérationnel dans un rôle de pentesting ou sécurité informatique
+
 ---
 
 ## 📊 Statistiques GitHub
