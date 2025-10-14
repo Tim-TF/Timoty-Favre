@@ -28,7 +28,6 @@ Mon but est d’évoluer dans un rôle en cybersécurité, avec une préférence
 ## 🛠️ Compétences
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=red)
 
 - **Cybersécurité** : principes fondamentaux, sécurité réseau  
