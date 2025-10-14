@@ -47,11 +47,6 @@ Mon but est d’évoluer dans un rôle en cybersécurité, avec une préférence
 - Je me forme régulièrement sur de nouveaux outils, techniques et bonnes pratiques  
 - Mon objectif : devenir pleinement opérationnel dans un rôle de pentesting ou sécurité informatique
 
----
-
-## 📊 Statistiques GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TimotyFavre&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TimotyFavre&layout=compact&theme=radical)
 
 ---
 
