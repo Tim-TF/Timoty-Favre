@@ -11,7 +11,8 @@
 Mettre à profit ma rigueur et mes compétences analytiques pour contribuer à la **sécurité des systèmes et réseaux**.  
 Mon but est d’évoluer dans un rôle en cybersécurité, avec une préférence pour :  
 - 🔎 **Pentesting / Ethical Hacking**  
-- 🛡️ **Détection & Réponse aux incidents**  
+- 🛡️ **Détection & Réponse aux incidents**
+- 🛡️ **Améliorer mes compétences SOC (SIEM, détection d’incidents, logs)** 
 - 🌐 **Sécurité des réseaux**  
 - 🔐 **Analyse de vulnérabilités**  
 
@@ -44,7 +45,7 @@ Mon but est d’évoluer dans un rôle en cybersécurité, avec une préférence
  ## 🔄 En cours de perfectionnement
 - Je continue à développer mes compétences en cybersécurité via des labs et CTF sur **TryHackMe**  
 - Je me forme régulièrement sur de nouveaux outils, techniques et bonnes pratiques  
-- Mon objectif : devenir pleinement opérationnel dans un rôle de pentesting ou sécurité informatique
+- Mon objectif : trouver un emploi et devenir pleinement opérationnel dans un rôle de analyste SOC, de pentesting ou sécurité informatique ou tout autre poste dans le domaine de la cybersécurité
 
 
 ---
