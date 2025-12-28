@@ -51,7 +51,7 @@ Mon but est d’évoluer dans un rôle en cybersécurité, avec une préférence
 ---
 
 ## 🌐 Me retrouver
-- 💼 [LinkedIn](https://www.linkedin.com) _(ajoute ton lien)_  
+- 💼 [LinkedIn] www.linkedin.com/in/timoty-favre-b66ba537b 
 - 📧 **timoty_favre@hotmail.com**
 
 ---
